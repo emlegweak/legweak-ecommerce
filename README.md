@@ -1,0 +1,1 @@
+Ecommerce app using React, Strapi (headless CMS), Stripe API
